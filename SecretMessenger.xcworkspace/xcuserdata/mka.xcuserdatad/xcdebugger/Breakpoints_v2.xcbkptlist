@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17F922DD-CDBB-41BA-8A51-2E3A2B3FD9E2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F15ADC-B598-4ED1-9552-9E8EF12DE1AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecretMessenger/Controllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecretMessenger/Controllers/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "RegisterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - a2f9a5047f693b39"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.passwordTextfield.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/SecretMessenger/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - f870c599c24fc35d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.passwordTextfield.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/SecretMessenger/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - 358d1a11d164312"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.passwordTextfield.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/SecretMessenger/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - 652b0561b1dd730"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.passwordTextfield.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - 6791673667f44401"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecretMessenger.RegisterViewController"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/SecretMessenger/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "71443DBC-3F84-47DF-9EEC-E093F03E310A - 274e0ba8fa4516d7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecretMessenger.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecretMessenger.RegisterViewController&gt;"
+                  moduleName = "SecretMessenger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mka/iOS_Projects/Secret%20Messenger/SecretMessenger/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

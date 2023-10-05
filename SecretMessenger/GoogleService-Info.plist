@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD2Cb44S0vTRtn3X4ipMtScOIfFiE9_AUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116548533691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mka.Secret-Messenger</string>
+	<key>PROJECT_ID</key>
+	<string>secret-messenger-cc2ab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>secret-messenger-cc2ab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116548533691:ios:3d2e7f4d02f1d30ee0989e</string>
+</dict>
+</plist>
